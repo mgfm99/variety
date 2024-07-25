@@ -27,7 +27,7 @@ logger = logging.getLogger("variety")
 random.seed()
 
 API_KEY = "4458f99cea580e3346224551d8f5d123"
-HASH = "5aecae3f2d73fcb2324c2e67d6a68ca3"
+HASH = b"7be8fb4d85e742e3c6109eaca7773afb/n"
 
 
 class FlickrDownloader(ImageSource, DefaultDownloader):
