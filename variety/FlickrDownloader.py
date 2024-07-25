@@ -26,7 +26,7 @@ logger = logging.getLogger("variety")
 
 random.seed()
 
-API_KEY = "d9c4a1fd59926d27d091b69651c37a34"
+API_KEY = "4458f99cea580e3346224551d8f5d123"
 HASH = b"VAxWBwAJUlxWCQBQVQJWBVVUClBbDg1SDAVTC1RRB1E=\n"
 
 
