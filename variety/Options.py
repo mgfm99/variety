@@ -718,7 +718,7 @@ class Options:
             [
                 True,
                 Options.SourceType.FLICKR,
-                "user:www.flickr.com/photos/peter-levi/;user_id:93647178@N00;",
+                "user:www.flickr.com/photos/mgfm/;user_id:1397598957#47568796@N00;",
             ],
         ]
 
